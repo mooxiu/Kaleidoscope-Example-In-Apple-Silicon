@@ -1,0 +1,6 @@
+cmake-build-default/
+cmake-build-debug/
+build/
+CMakeFiles/
+.idea
+.DS_Store
